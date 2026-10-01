@@ -1,6 +1,6 @@
 # Windsor Park · Blessed Thanksgiving
 
-A mobile-first, church-friendly Wi-Fi prank: one URL, nine randomly selected posters, and a different poster on refresh when browser storage is available.
+A mobile-first, church-friendly Wi-Fi prank: one URL, ten randomly selected posters, and a different poster on refresh when browser storage is available.
 
 ## Public URL
 
@@ -26,3 +26,5 @@ Serve this directory using any static file server, or open index.html directly.
 
 ## Image posters
 The fellowship poster uses assets/fellowship.jpg. To add another image variant, include image (a relative path) and imageAlt (a complete accessible description) alongside the usual text fields. Text fields also provide a fallback if the image cannot load.
+
+The thanking poster uses assets/thanking.jpg and appears alongside the fellowship version.
