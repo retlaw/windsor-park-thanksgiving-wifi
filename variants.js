@@ -1,0 +1,12 @@
+// Add/remove objects here. Keep each id unique and stable.
+// Themes: plum, forest, rust, midnight. Text is rendered safely as plain text.
+window.THANKSGIVING_VARIANTS = [
+  {id:"404",theme:"plum",label:"NETWORK NOTICE",kicker:"ERROR 404",headline:"Wi-Fi password not found.",body:"Blessings everywhere, though.",punchline:"Looks like you found the better connection."},
+  {id:"always-on",theme:"forest",label:"CONNECTION UPDATE",kicker:"AVAILABLE 24/7",headline:"No password required.",body:"Wi-Fi connection: failed. Connection with God: always available.",punchline:"Now that’s what we call unlimited access."},
+  {id:"thankful",theme:"rust",label:"GUEST ACCESS",kicker:"PASSWORD: THANKFUL",headline:"You tried that, didn’t you?",body:"We admire your faith in the Comms Team.",punchline:"No Wi-Fi password here. Just a friendly Thanksgiving reminder."},
+  {id:"gratitude",theme:"midnight",label:"SIGNAL CHECK",kicker:"GRATITUDE SIGNAL: 2 BARS",headline:"Let’s improve your reception.",body:"Think of one thing you’re thankful to God for.",punchline:"There we go. Stronger connection already."},
+  {id:"patience",theme:"plum",label:"PLEASE STAND BY",kicker:"CONNECTING… STILL CONNECTING…",headline:"Thank God for patience.",body:"Especially when you’re waiting for this Wi-Fi password.",punchline:"Plot twist: we don’t have it either."},
+  {id:"free-wifi",theme:"rust",label:"A SMALL CORRECTION",kicker:"DID SOMEBODY SAY FREE WI-FI?",headline:"We got a little carried away.",body:"The laughter is free. So is the good company.",punchline:"The Wi-Fi? Let’s focus on our blessings."},
+  {id:"comms",theme:"forest",label:"A MESSAGE FROM THE COMMS TEAM",kicker:"YOU CAME LOOKING FOR WI-FI",headline:"Surprise. It’s Thanksgiving.",body:"We brought you a little joy instead of a password.",punchline:"Please direct all complaints to the Comms Team. We’ll be by the food."},
+  {id:"99-percent",theme:"midnight",label:"DOWNLOAD UPDATE",kicker:"WI-FI PASSWORD LOADING… 99%",headline:"Gratitude installed successfully.",body:"Password installation, however, was unsuccessful.",punchline:"Try counting your blessings while we pretend to fix it."}
+];
